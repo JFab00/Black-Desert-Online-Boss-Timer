@@ -1,0 +1,15 @@
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.exe
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.deps.json
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.dll
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.pdb
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.FormInterface.resources
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.Properties.Resources.resources
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.dll
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.pdb
+E:\BDOBossTimer\BDO-WBT\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
